@@ -1,0 +1,1 @@
+php -S 0.0.0.0:8080 -t /data/data/com.termux/files/home/php
